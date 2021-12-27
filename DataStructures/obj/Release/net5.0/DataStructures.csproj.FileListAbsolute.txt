@@ -1,0 +1,16 @@
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/DataStructures.deps.json
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/DataStructures.runtimeconfig.json
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/DataStructures.runtimeconfig.dev.json
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/DataStructures.dll
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/ref/DataStructures.dll
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/DataStructures.pdb
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.csproj.AssemblyReference.cache
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.AssemblyInfoInputs.cache
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.AssemblyInfo.cs
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.csproj.CoreCompileInputs.cache
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.dll
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/ref/DataStructures.dll
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.pdb
+/Users/yzk/Projects/Code/Course/DataStructures/obj/Release/net5.0/DataStructures.genruntimeconfig.cache
+/Users/yzk/Projects/Code/Course/DataStructures/bin/Release/net5.0/Resource/ATaleOfTwoCities.txt
